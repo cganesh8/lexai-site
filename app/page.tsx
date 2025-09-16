@@ -29,7 +29,7 @@ export default function HomePage() {
 
         <div className="relative aspect-[16/10] w-full overflow-hidden rounded-lg border">
           <Image
-            src="https://images.pexels.com/photos/442781/pexels-photo-442781.jpeg"
+            src="/woman.jpg"
             alt="Legal team reviewing documents with AI assistant"
             fill
             className="object-cover"
