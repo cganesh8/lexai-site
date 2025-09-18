@@ -26,7 +26,7 @@ export default function Page() {
 
       <section className="space-y-4">
         <p className="text-gray-700">
-          LexAI (&quot;we&quot;, &quot;our&quot;, &quot;us&quot;) respects your privacy and is committed to protecting your personal data.
+          LexAI ({"\"we\",\"our\",\"us\""}) respects your privacy and is committed to protecting your personal data.
           This policy explains what we collect, how we use it, and the rights available to you.
         </p>
       </section>
