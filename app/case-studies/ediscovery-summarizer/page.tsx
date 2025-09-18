@@ -213,9 +213,6 @@ export default function Page() {
           <Link href="/contact" className="inline-flex items-center justify-center rounded-xl border px-4 py-2 hover:bg-gray-50">
             Book a discovery call
           </Link>
-          <Link href="/downloads/e-discovery-summarizer-onepager.pdf" className="inline-flex items-center justify-center rounded-xl border px-4 py-2 hover:bg-gray-50">
-            Download one‑pager
-          </Link>
         </div>
       </section>
     </main>
