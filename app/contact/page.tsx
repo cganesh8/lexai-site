@@ -4,7 +4,7 @@ export default function ContactPage() {
     <div className="max-w-lg">
       <h1 className="text-3xl font-semibold">Contact</h1>
       <p className="mt-2 text-gray-600 text-sm">
-        Tell us about your firm and a workflow you’d like to pilot. We’ll reply within one business day.
+        Tell us about your firm and a workflow you’d like to pilot.
       </p>
 
       <form action={endpoint} method="POST" className="mt-6 space-y-4">
