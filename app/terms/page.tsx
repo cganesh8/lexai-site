@@ -59,7 +59,7 @@ export default function Page() {
       <section className="space-y-2">
         <h2 className="text-2xl font-semibold">Disclaimer & Limitation of Liability</h2>
         <p className="text-gray-700">
-          The site is provided on an "as is" and "as available" basis without warranties of any kind. To the
+          The site is provided on an &quot;as is&quot; and &quot;as available&quot; basis without warranties of any kind. To the
           fullest extent permitted by law, we disclaim all warranties and will not be liable for any indirect,
           incidental, consequential, special, or exemplary damages arising from your use of the site.
         </p>
